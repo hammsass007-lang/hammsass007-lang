@@ -98,13 +98,7 @@ Built an AI project using Python as part of my journey into programming and arti
 
 ---
 
-## 📊 GITHUB STATISTICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hammsass007-lang&show_icons=true&theme=tokyonight&hide_border=true" width="95%" alt="GitHub stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammsass007-lang&layout=compact&theme=tokyonight&hide_border=true" width="95%" alt="Top languages"/>
+alt="Top languages"/>
 
 </div>
 
