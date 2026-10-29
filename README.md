@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080d18,50:123c69,100:00c6ff&height=180&section=header&text=HAMZA&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=PYTHON%20%7C%20AI%20%7C%20NETWORKING&descSize=18&descAlignY=68" width="100%" />
@@ -32,7 +31,7 @@
 
 ## 🖥️ SYSTEM & TOOLS
 
-**Programming:** Python
+**Programming:** Python, HTML, Java
 
 **Interests:** AI, Networking, Cybersecurity
 
@@ -51,7 +50,13 @@
 
 ## 🐍 TECH STACK
 
-<img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode&perline=3" width="100%" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=python,html,java,linux,git,github,vscode&perline=3" width="100%" alt="Tech stack"/>
+
+## 📊 MY LANGUAGES
+
+![Python](https://img.shields.io/badge/Python-7%25-3776AB?style=flat-square&logo=python)
+![HTML](https://img.shields.io/badge/HTML-20%25-E34F26?style=flat-square&logo=html5)
+![Java](https://img.shields.io/badge/Java-10%25-007396?style=flat-square&logo=java)
 
 ## 🧠 FOCUS
 
