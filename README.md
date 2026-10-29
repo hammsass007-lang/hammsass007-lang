@@ -98,8 +98,6 @@ Built an AI project using Python as part of my journey into programming and arti
 
 ---
 
-alt="Top languages"/>
-
 </div>
 
 ---
