@@ -54,9 +54,9 @@
 
 ## 📊 MY LANGUAGES
 
-![Python](https://img.shields.io/badge/Python-7%25-3776AB?style=flat-square&logo=python)
-![HTML](https://img.shields.io/badge/HTML-20%25-E34F26?style=flat-square&logo=html5)
-![Java](https://img.shields.io/badge/Java-10%25-007396?style=flat-square&logo=java)
+<img src="https://img.shields.io/badge/Python-70%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-20%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-10%25-007396?style=for-the-badge&logo=java&logoColor=white" />
 
 ## 🧠 FOCUS
 
